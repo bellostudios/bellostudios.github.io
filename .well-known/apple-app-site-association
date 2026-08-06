@@ -1,27 +1,20 @@
 {
-"applinks": {
+  "applinks": {
     "details": [
       {
         "appIDs": ["KRJ75YQG4X.com.bellostudios.ghostdetectoremf"],
         "components": [
-          { "/": "/spirittalker/*", "comment": "Deep links de Ghost Detector EMF" },
-          { "/": "/spiritbox", "comment": "Página spiritbox" }
+          { "/": "/spirittalker/*" }
         ]
       },
       {
         "appIDs": ["KRJ75YQG4X.com.martinstudios.spirittalkerghostdetector"],
         "components": [
-          { "/": "/premium/*", "comment": "Página premium" },
-          { "/": "/spirittalker2", "comment": "Página spirittalker2" },
-          { "/": "/spiritbox2", "comment": "Página spiritbox2" }
+          { "/": "/premium/*" },
+          { "/": "/spirittalker2" },
+          { "/": "/spiritbox2" }
         ]
       }
     ]
-  }],
-"paths": [
-"/premium/*"
-]
-}
-]
-}
+  }
 }
